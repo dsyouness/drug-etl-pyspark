@@ -1,0 +1,14 @@
+{
+	"source": {
+		"path": "data/source",
+		"drug_file": "drugs.csv",
+		"clinical_trial_file": "clinical_trials.csv",
+		"pubmed_csv_file": "pubmed.csv",
+		"pubmed_json_file": "pubmed.json"
+	},
+	"sink": {
+		"path": "data/sink",
+		"drug_graph": "drug_graph.json",
+		"top_journals": "top_journals.json"
+	}
+}
